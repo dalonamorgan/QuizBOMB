@@ -1,0 +1,35 @@
+You are tasked with building a program for your teacher. This program will need to report on the following:
+
+What was the highest score? 100% Bonus: Who was it? Shelby and Ben
+What was the lowest score? 56% Bonus: Who was it? Sarah
+What was the average score for the class?
+How many students got an A (90+)? 4
+How many students got a B (80 - 89)? 2
+How many students got a C (70 - 79)? 2
+How many students failed (69 or lower)? 2
+The above should print to the console one the program is ran.
+
+
+Data Set
+1. Toni - 87
+2. Bryan - 90
+3. Chris - 80
+4. Shelby - 100
+5. Alex - 95
+6. Tyler - 70
+7. Erin - 65
+8. Ben - 100
+9. Tiffany - 72
+10. Sarah - 56
+
+
+Create a repository for this assignment and turn in your repo link.
+
+
+This program will require you to do some research, and I am totally fine with that!  Please turn in all links used to help you complete your program!
+
+
+Try your best! Have fun! Looking forward to seeing your work.
+
+
+Your next quiz assignment will be part 2 of this assignment!
